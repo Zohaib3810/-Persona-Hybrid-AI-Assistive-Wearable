@@ -1,0 +1,8 @@
+opencv-python
+SpeechRecognition
+pyttsx3
+requests
+openwakeword
+PyAudio
+numpy
+onnxruntime
